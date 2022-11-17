@@ -9,7 +9,7 @@ const AllServices = ({ data }) => {
       <ul>
         {data.items.map((item, index) => (
           <li key={index}>
-            <Link href={item.path}>{item.name}</Link>
+            <Link href={`/services/${item.name}`}>{item.name}</Link>
           </li>
         ))}
       </ul>
