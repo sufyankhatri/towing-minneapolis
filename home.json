@@ -1,0 +1,389 @@
+{
+  "header": {
+    "backgroundImage": {
+      "src": "https://towingminneapolis.us/theme/images/webp/banner-bg.webp",
+      "alt": "background"
+    },
+    "navbar": {
+      "brand": {
+        "href": "/",
+        "logo": {
+          "src": "https://towingminneapolis.us/theme/images/logo.png",
+          "alt": "logo"
+        }
+      },
+      "items": [
+        { "href": "/", "text": "Home" },
+        { "href": "/services", "text": "Services" },
+        { "href": "/contact-us", "text": "Contact Us" }
+      ]
+    },
+    "banner": {
+      "tagline": "Roadside Assistance, When You Need It the Most",
+      "header": "Towing Near Me In Minneapolis",
+      "items": [
+        "Upfront and competitive pricing",
+        "Licensed up towings",
+        "Much safer",
+        "Professionals with extensive experirience",
+        "Knowledge of all the local streets",
+        "Modern and licensed tow trucks",
+        "Various types of towings",
+        "Quick reponse to your call",
+        "Fast on-site arrival",
+        "24 hours a day service"
+      ]
+    }
+  },
+  "contact": {
+    "text": "24/7 Towing Service In Minneapolis",
+    "phone": "(612)-445-5225",
+    "backgroundImage": {
+      "src": "https://towingminneapolis.us/theme/images/webp/tire-btn-pattern.webp",
+      "alt": "contact"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us?",
+    "elements": [
+      {
+        "type": "h3",
+        "value": "Fast and Inexpensive Towing Service in Minneapolis"
+      },
+      {
+        "type": "p",
+        "value": "Our towing company in Minneapolis is a reliable partner. If you need help getting you back on the road, we are sure to solve the problem. This is not our opinion of ourselves, this is how our customers speak of us. We have a service team of highly trained professionals to provide quality towing service in Minneapolis. Their level of skill, knowledge and their vast experience allows us to solve almost any problem that happened to you on the road in Minneapolis."
+      },
+      {
+        "type": "p",
+        "value": "Because we are a local towing company, we know all the local roads and nooks and crannies very well. For towing in Minneapolis, we choose the shortest routes devoid of repairs or congestion. The skill of the drivers allows us to drive up to your broken-down vehicle anywhere, and keep your immovable property intact. Our guys work 24 hours a day, 7 days a week"
+      }
+    ]
+  },
+  "zips": {
+    "title": "Zipcodes We Serve",
+    "items": [
+      { "name": "55401", "path": "/55401" },
+      { "name": "55402", "path": "/55402" },
+      { "name": "55403", "path": "/55403" },
+      { "name": "55404", "path": "/55404" },
+      { "name": "55405", "path": "/55405" },
+      { "name": "55406", "path": "/55406" },
+      { "name": "55407", "path": "/55407" },
+      { "name": "55408", "path": "/55408" },
+      { "name": "55409", "path": "/55409" },
+      { "name": "55410", "path": "/55410" },
+      { "name": "55411", "path": "/55411" },
+      { "name": "55412", "path": "/55412" },
+      { "name": "55413", "path": "/55413" },
+      { "name": "55414", "path": "/55414" },
+      { "name": "55415", "path": "/55415" },
+      { "name": "55416", "path": "/55416" },
+      { "name": "55417", "path": "/55417" },
+      { "name": "55418", "path": "/55418" },
+      { "name": "55419", "path": "/55419" },
+      { "name": "55420", "path": "/55420" },
+      { "name": "55422", "path": "/55422" },
+      { "name": "55423", "path": "/55423" },
+      { "name": "55424", "path": "/55424" },
+      { "name": "55425", "path": "/55425" },
+      { "name": "55426", "path": "/55426" },
+      { "name": "55427", "path": "/55427" },
+      { "name": "55428", "path": "/55428" },
+      { "name": "55429", "path": "/55429" },
+      { "name": "55430", "path": "/55430" },
+      { "name": "55431", "path": "/55431" },
+      { "name": "55435", "path": "/55435" },
+      { "name": "55436", "path": "/55436" },
+      { "name": "55437", "path": "/55437" },
+      { "name": "55438", "path": "/55438" },
+      { "name": "55439", "path": "/55439" },
+      { "name": "55440", "path": "/55440" },
+      { "name": "55441", "path": "/55441" },
+      { "name": "55442", "path": "/55442" },
+      { "name": "55443", "path": "/55443" },
+      { "name": "55444", "path": "/55444" },
+      { "name": "55445", "path": "/55445" },
+      { "name": "55446", "path": "/55446" },
+      { "name": "55447", "path": "/55447" },
+      { "name": "55450", "path": "/55450" },
+      { "name": "55454", "path": "/55454" },
+      { "name": "55455", "path": "/55455" },
+      { "name": "55458", "path": "/55458" },
+      { "name": "55459", "path": "/55459" },
+      { "name": "55460", "path": "/55460" },
+      { "name": "55467", "path": "/55467" },
+      { "name": "55468", "path": "/55468" },
+      { "name": "55470", "path": "/55470" },
+      { "name": "55472", "path": "/55472" },
+      { "name": "55473", "path": "/55473" },
+      { "name": "55474", "path": "/55474" },
+      { "name": "55478", "path": "/55478" },
+      { "name": "55479", "path": "/55479" },
+      { "name": "55480", "path": "/55480" },
+      { "name": "55483", "path": "/55483" },
+      { "name": "55484", "path": "/55484" },
+      { "name": "55485", "path": "/55485" },
+      { "name": "55486", "path": "/55486" },
+      { "name": "55487", "path": "/55487" },
+      { "name": "55488", "path": "/55488" }
+    ]
+  },
+  "ourServices": {
+    "title": "Our Services",
+    "items": [
+      {
+        "name": "Accidents Towing",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img1.webp",
+          "alt": "accidents-towing"
+        },
+        "href": "/services/accidents-towing"
+      },
+      {
+        "name": "Winch-out",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img2.webp",
+          "alt": "winch-out"
+        },
+        "href": "/services/winch-out"
+      },
+      {
+        "name": "Motorcycle Towing",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img3.webp",
+          "alt": "motorcycle-towing"
+        },
+        "href": "/services/motorcycle-towing"
+      },
+      {
+        "name": "Jump Starting",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img4.webp",
+          "alt": "jump-start"
+        },
+        "href": "/services/jump-start"
+      },
+      {
+        "name": "On-site Repair",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img5.webp",
+          "alt": "on-site-repair"
+        },
+        "href": "/services/on-site-repair"
+      },
+      {
+        "name": "Car Refueling",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img6.webp",
+          "alt": "winch-out"
+        },
+        "href": "/services/winch-out"
+      },
+      {
+        "name": "Less Than 30 Min Arrival",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img7.webp",
+          "alt": "less-than-30-min-arrival"
+        },
+        "href": "/services/less-than-30-min-arrival",
+        "icon": {
+          "src": "https://towingminneapolis.us/theme/images/hrglass-icn.png",
+          "alt": "hourglass"
+        }
+      },
+      {
+        "name": "Available Price Always",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img8.webp",
+          "alt": "available-price-always"
+        },
+        "href": "/services/available-price-always",
+        "icon": {
+          "src": "https://towingminneapolis.us/theme/images/dlr-icn.png",
+          "alt": "dollar"
+        }
+      },
+      {
+        "name": "24/7 Service (612)-445-5225",
+        "backgroundImage": {
+          "src": "https://towingminneapolis.us/theme/images/webp/s-img9.webp",
+          "alt": "24-7-service"
+        },
+        "href": "/services/24-7-service",
+        "icon": {
+          "src": "https://towingminneapolis.us/theme/images/ph-icn.png",
+          "alt": "phone"
+        }
+      }
+    ]
+  },
+  "about": {
+    "title": "Towing Near Me In Minneapolis",
+    "elements": [
+      { "type": "h3", "value": "Client Oriented Service" },
+      {
+        "type": "p",
+        "value": "The idea for our towing company came about after we received low quality towing and spoiled spirits. We couldn't save that day of ours. Remembering that negative experience, we created a towing company that is customer-focused. It's important to us to not just provide towing in Minneapolis, but to make you feel like our experts care about you. If you have a need for service in the city, we strive to get it done as quickly as possible. That being said, we remember that towing in Minneapolis is stressful, so our entire staff tries to lift your spirits. Don't feel left out and alone in Minneapolis, we're already rushing to you for towing service. Call us +1(612)-445-5225."
+      }
+    ]
+  },
+  "services": {
+    "title": "We are ready 24/7 to help you.",
+    "backgroundImage": {
+      "src": "https://towingminneapolis.us/theme/images/webp/call-to-action-bg.webp",
+      "alt": "services"
+    }
+  },
+  "allServices": {
+    "title": "All Towing Services",
+    "items": [
+      { "name": "Motorhome Towing", "path": "/services/motorhome-towing" },
+      {
+        "name": "Scissor Lift Towing",
+        "path": "/services/scissor-lift-towing"
+      },
+      { "name": "Winch Out", "path": "/services/winch-out" },
+      {
+        "name": "Towing For Uber Cars",
+        "path": "/services/towing-for-uber-cars"
+      },
+      { "name": "RV Towing", "path": "/services/rv-towing" },
+      { "name": "Motorcycle Towing", "path": "/services/motorcycle-towing" },
+      { "name": "Heavy Duty Towing", "path": "/services/heavy-duty-towing" },
+      { "name": "Medium Duty Towing", "path": "/services/medium-duty-towing" },
+      { "name": "Light Duty Towing", "path": "/services/light-duty-towing" },
+      { "name": "Local Towing", "path": "/services/local-towing" },
+      {
+        "name": "Long Distance Towing",
+        "path": "/services/long-distance-towing"
+      },
+      {
+        "name": "Low Clearance Towing",
+        "path": "/services/low-clearance-towing"
+      },
+      { "name": "Fuel Delivery", "path": "/services/fuel-delivery" },
+      { "name": "Luxury Car Towing", "path": "/services/luxury-car-towing" },
+      {
+        "name": "Wheel Lift Tow Truck Service",
+        "path": "/services/wheel-lift-tow-truck-service"
+      },
+      { "name": "18 Wheeler Towing", "path": "/services/18-wheeler-towing" },
+      { "name": "Big Rig Towing", "path": "/services/big-rig-towing" },
+      { "name": "Commercial Towing", "path": "/services/commercial-towing" },
+      { "name": "Lowboy Towing", "path": "/services/lowboy-towing" },
+      { "name": "Emergency Towing", "path": "/services/emergency-towing" },
+      {
+        "name": "Roadside Assistance",
+        "path": "/services/roadside-assistance"
+      },
+      {
+        "name": "Broken Ignition Key Removal",
+        "path": "/services/broken-ignition-key-removal"
+      },
+      { "name": "Car Lockout", "path": "/services/car-lockout" },
+      { "name": "Change Car Battery", "path": "/services/change-car-battery" },
+      { "name": "Recovery Services", "path": "/services/recovery-services" },
+      { "name": "Flatbed Towing", "path": "/services/flatbed-towing" },
+      { "name": "Junk Cars For Cash", "path": "/services/junk-cars-for-cash" },
+      {
+        "name": "Construction Towing",
+        "path": "/services/construction-towing"
+      },
+      { "name": "Boat Towing", "path": "/services/boat-towing" },
+      { "name": "Box Truck Towing", "path": "/services/box-truck-towing" },
+      { "name": "Bus Towing", "path": "/services/bus-towing" },
+      { "name": "Limo Towing", "path": "/services/limo-towing" },
+      { "name": "Dump Truck Towing", "path": "/services/dump-truck-towing" },
+      {
+        "name": "Tire Change Heavy Duty",
+        "path": "/services/tire-change-heavy-duty"
+      },
+      {
+        "name": "Transportation Trailer",
+        "path": "/services/transportation-trailer"
+      },
+      { "name": "School Bus Towing", "path": "/services/school-bus-towing" },
+      { "name": "UPS Towing", "path": "/services/ups-towing" },
+      {
+        "name": "Office Container Tow",
+        "path": "/services/office-container-tow"
+      },
+      {
+        "name": "Towing Cars Without Plates",
+        "path": "/services/towing-cars-without-plates"
+      },
+      {
+        "name": "Shipping Container Tow",
+        "path": "/services/shipping-container-tow"
+      },
+      { "name": "Fifth Wheel Tow", "path": "/services/fifth-wheel-tow" },
+      {
+        "name": "Off Road Vehicle Recovery",
+        "path": "/services/off-road-vehicle-recovery"
+      },
+      { "name": "Semi Truck Towing", "path": "/services/semi-truck-towing" },
+      { "name": "Jump Start", "path": "/services/jump-start" },
+      { "name": "Flat Tire Service", "path": "/services/flat-tire-service" },
+      { "name": "Car Transportation", "path": "/services/car-transportation" }
+    ]
+  },
+  "reviews": {
+    "title": "Reviews",
+    "items": [
+      {
+        "author": { "name": "Amber Bray" },
+        "review": "I had to move to the nearest city, but I couldn't drive two cars at the same time. So I called Towingminneapolis, I know they have a long towing service. The dispatcher answered me very quickly. He and I chose a time that was convenient for me. The truck arrived on time. The driver was kind enough to pick up some more of my stuff on the way. The move went great. My car was delivered very neatly, with no new damage. Thank you for the positive mood and professionalism",
+        "stars": 5
+      },
+      {
+        "author": { "name": "Christopher Whittaker" },
+        "review": "I had great plans for the day, but my dead car battery ruined everything for me. I was very frustrated. There was no one around to help me. I ended up calling Towingminneapolis and their driver arrived very quickly and did a jump start. Within 20 minutes I was able to drive out of my garage. Thanks for the quick response and professional help",
+        "stars": 5
+      }
+    ]
+  },
+  "form": {
+    "title": "Request A Call Back",
+    "items": [
+      { "name": "contactName", "placeholder": "Your Name", "type": "text" },
+      { "name": "email", "placeholder": "E-mail", "type": "email" },
+      { "name": "phone", "placeholder": "Phone Number", "type": "tel" }
+    ],
+    "submit": { "text": "Submit", "post": "<url here>" }
+  },
+  "help": { "title": "Need Help In An Urgent Situation?" },
+  "footer": {
+    "services": {
+      "title": "Services",
+      "items": [
+        {
+          "name": "Long distance towing",
+          "path": "/services/long-distance-towing"
+        },
+        {
+          "name": "Roadside Assistance",
+          "path": "/services/roadside-assistance"
+        },
+        { "name": "Luxury car towing", "path": "/services/luxury-car-towing" },
+        { "name": "Winch out", "path": "/services/winch-out" },
+        { "name": "Heavy duty towing", "path": "/services/heavy-duty-towing" },
+        { "name": "Flat tire service", "path": "/services/flat-tire-service" },
+        { "name": "Jump start", "path": "/services/jump-start" },
+        {
+          "name": "Car transportation",
+          "path": "/services/car-transportation"
+        },
+        {
+          "name": "Tire change heavy duty",
+          "path": "/services/tire-change-heavy-duty"
+        },
+        { "name": "Flatbed towing", "path": "/services/flatbed-towing" }
+      ],
+      "backgroundImage": {
+        "src": "https://towingminneapolis.us/theme/images/webp/footer-bg.webp",
+        "alt": "footer-image"
+      }
+    }
+  }
+}

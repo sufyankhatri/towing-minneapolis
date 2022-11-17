@@ -1,0 +1,351 @@
+{
+  "backgroundImage": {
+    "src": "https://towingminneapolis.us/theme/images/webp/banner-bg.webp",
+    "alt": "background"
+  },
+  "info": {
+    "contact": {
+      "phone": "(612)-445-5225"
+    },
+    "reviews": [
+      {
+        "author": {
+          "name": "Amber Bray"
+        },
+        "review": "I had to move to the nearest city, but I couldn't drive two cars at the same time. So I called Towingminneapolis, I know they have a long towing service. The dispatcher answered me very quickly. He and I chose a time that was convenient for me. The truck arrived on time. The driver was kind enough to pick up some more of my stuff on the way. The move went great. My car was delivered very neatly, with no new damage. Thank you for the positive mood and professionalism",
+        "stars": 5
+      },
+      {
+        "author": {
+          "name": "Christopher Whittaker"
+        },
+        "review": "I had great plans for the day, but my dead car battery ruined everything for me. I was very frustrated. There was no one around to help me. I ended up calling Towingminneapolis and their driver arrived very quickly and did a jump start. Within 20 minutes I was able to drive out of my garage. Thanks for the quick response and professional help",
+        "stars": 5
+      }
+    ]
+  },
+  "banner": {
+    "tagline": "Roadside Assistance, When You Need It the Most",
+    "items": [
+      "Upfront and competitive pricing",
+      "Licensed up towings",
+      "Much safer",
+      "Professionals with extensive experirience",
+      "Knowledge of all the local streets",
+      "Modern and licensed tow trucks",
+      "Various types of towings",
+      "Quick reponse to your call",
+      "Fast on-site arrival",
+      "24 hours a day service"
+    ]
+  },
+  "navbar": {
+    "brand": {
+      "href": "/",
+      "logo": {
+        "src": "https://towingminneapolis.us/theme/images/logo.png",
+        "alt": "logo"
+      }
+    },
+    "items": [
+      {
+        "href": "/",
+        "text": "Home"
+      },
+      {
+        "href": "/services",
+        "text": "Services"
+      },
+      {
+        "href": "/contact-us",
+        "text": "Contact Us"
+      }
+    ]
+  },
+
+  "ourServices": [
+    {
+      "name": "Accidents Towing",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img1.webp",
+        "alt": "accidents-towing"
+      },
+      "href": "/services/accidents-towing"
+    },
+    {
+      "name": "Winch-out",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img2.webp",
+        "alt": "winch-out"
+      },
+      "href": "/services/winch-out"
+    },
+    {
+      "name": "Motorcycle Towing",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img3.webp",
+        "alt": "motorcycle-towing"
+      },
+      "href": "/services/motorcycle-towing"
+    },
+    {
+      "name": "Jump Starting",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img4.webp",
+        "alt": "jump-start"
+      },
+      "href": "/services/jump-start"
+    },
+    {
+      "name": "On-site Repair",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img5.webp",
+        "alt": "on-site-repair"
+      },
+      "href": "/services/on-site-repair"
+    },
+    {
+      "name": "Car Refueling",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img6.webp",
+        "alt": "winch-out"
+      },
+      "href": "/services/winch-out"
+    },
+    {
+      "name": "Less Than 30 Min Arrival",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img7.webp",
+        "alt": "less-than-30-min-arrival"
+      },
+      "href": "/services/less-than-30-min-arrival"
+    },
+    {
+      "name": "Available Price Always",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img8.webp",
+        "alt": "available-price-always"
+      },
+      "href": "/services/available-price-always"
+    },
+    {
+      "name": "24/7 Service (612)-445-5225",
+      "image": {
+        "src": "https://towingminneapolis.us/theme/images/webp/s-img9.webp",
+        "alt": "24-7-service"
+      },
+      "href": "/services/24-7-service"
+    }
+  ],
+  "services": {
+    "motorhome-towing": {
+      "name": "Motorhome Towing",
+      "whyChooseUs": {
+        "elements": [
+          {
+            "type": "p",
+            "value": "Our Motorhome Towing company in Minneapolis is a reliable partner. If you need help getting you back on the road, we are sure to solve the problem. This is not our opinion of ourselves, this is how our customers speak of us. We have a service team of highly trained professionals to provide quality Motorhome Towing in Minneapolis. Their level of skill, knowledge and their vast experience allows us to solve almost any problem that happened to you on the road in Minneapolis."
+          },
+          {
+            "type": "p",
+            "value": "Because we are a local Motorhome Towing company, we know all the local roads and nooks and crannies very well. For Motorhome Towing in Minneapolis, we choose the shortest routes devoid of repairs or congestion. The skill of the drivers allows us to drive up to your broken-down vehicle anywhere, and keep your immovable property intact."
+          },
+          {
+            "type": "p",
+            "children": [
+              {
+                "type": "text",
+                "value": "There are times when you can't estimate what type of towing you need. Call our specialists and describe the situation in detail, answer our dispatcher's questions, and maybe instead of service or in addition to it you will need "
+              },
+              {
+                "type": "a",
+                "text": "fuel delivery",
+                "href": "/services/fuel-delivery"
+              },
+              {
+                "type": "text",
+                "value": ", "
+              },
+              {
+                "type": "a",
+                "text": "car jump starting",
+                "href": "jump-start"
+              },
+              {
+                "type": "text",
+                "value": ", "
+              },
+              {
+                "type": "a",
+                "text": "long distance towing",
+                "href": "/services/long-distance-towing"
+              },
+              {
+                "type": "text",
+                "value": ", or "
+              },
+              {
+                "type": "a",
+                "text": "wheel lift tow truck service",
+                "href": "/services/wheel-lift-tow-truck-service"
+              },
+              {
+                "type": "text",
+                "value": "."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "value": "Our guys work 24 hours a day, 7 days a week"
+          }
+        ]
+      },
+      "about": {
+        "elements": [
+          {
+            "type": "h3",
+            "value": "Client Oriented Service"
+          },
+          {
+            "type": "p",
+            "value": "The idea for our Scissor Lift Towing company came about after we received low quality towing and spoiled spirits. We couldn't save that day of ours. Remembering that negative experience, we created a Scissor Lift Towing company that is customer-focused. It's important to us to not just provide Scissor Lift Towing in Minneapolis, but to make you feel like our professional technicians care about you. If you have a need for service in the city, we strive to get it done as quickly as possible. That being said, we remember that Scissor Lift Towing in Minneapolis is stressful, so our entire staff tries to lift your spirits. Don't feel left out and alone in Minneapolis, we're already rushing to you for Scissor Lift Towing. Call us +1(612)-445-5225."
+          }
+        ]
+      }
+    }
+  },
+  "zips": {
+    "55401": {
+      "whyChooseUs": {
+        "elements": [
+          {
+            "type": "p",
+            "value": "Our Towing company in 55401 Minneapolis is a reliable partner. If you need help getting you back on the road, we are sure to solve the problem. This is not our opinion of ourselves, this is how our customers speak of us. We have a service team of highly trained professionals to provide quality Towing in 55401 Minneapolis. Their level of skill, knowledge and their vast experience allows us to solve almost any problem that happened to you on the road in 55401 Minneapolis."
+          },
+          {
+            "type": "p",
+            "value": "Because we are a local Towing company, we know all the local roads and nooks and crannies very well. For Towing in 55401 Minneapolis, we choose the shortest routes devoid of repairs or congestion. The skill of the drivers allows us to drive up to your broken-down vehicle anywhere, and keep your immovable property intact. Our guys work 24 hours a day, 7 days a week"
+          }
+        ]
+      },
+      "about": {
+        "elements": [
+          {
+            "type": "h3",
+            "value": "Client Oriented Service"
+          },
+          {
+            "type": "p",
+            "value": "The idea for our towing company came about after we received low quality towing and spoiled spirits. We couldn't save that day of ours. Remembering that negative experience, we created a Towing company that is customer-focused. It's important to us to not just provide Towing in 55401 Minneapolis, but to make you feel like our professional technicians care about you. If you have a need for service in the city, we strive to get it done as quickly as possible. That being said, we remember that Towing in 55401 Minneapolis is stressful, so our entire staff tries to lift your spirits. Don't feel left out and alone in 55401 Minneapolis, we're already rushing to you for Towing. Call us +1(612)-445-5225."
+          }
+        ]
+      },
+      "services": {
+        "motorhome-towing": {
+          "name": "Motorhome Towing",
+
+          "whyChooseUs": {
+            "elements": [
+              {
+                "type": "p",
+                "value": "Our Motorhome Towing company in Minneapolis is a reliable partner. If you need help getting you back on the road, we are sure to solve the problem. This is not our opinion of ourselves, this is how our customers speak of us. We have a service team of highly trained professionals to provide quality Motorhome Towing in Minneapolis. Their level of skill, knowledge and their vast experience allows us to solve almost any problem that happened to you on the road in Minneapolis."
+              },
+              {
+                "type": "p",
+                "value": "Because we are a local Motorhome Towing company, we know all the local roads and nooks and crannies very well. For Motorhome Towing in Minneapolis, we choose the shortest routes devoid of repairs or congestion. The skill of the drivers allows us to drive up to your broken-down vehicle anywhere, and keep your immovable property intact."
+              },
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "There are times when you can't estimate what type of towing you need. Call our specialists and describe the situation in detail, answer our dispatcher's questions, and maybe instead of service or in addition to it you will need "
+                  },
+                  {
+                    "type": "a",
+                    "text": "fuel delivery",
+                    "href": "/services/fuel-delivery"
+                  },
+                  {
+                    "type": "text",
+                    "value": ", "
+                  },
+                  {
+                    "type": "a",
+                    "text": "car jump starting",
+                    "href": "jump-start"
+                  },
+                  {
+                    "type": "text",
+                    "value": ", "
+                  },
+                  {
+                    "type": "a",
+                    "text": "long distance towing",
+                    "href": "/services/long-distance-towing"
+                  },
+                  {
+                    "type": "text",
+                    "value": ", or "
+                  },
+                  {
+                    "type": "a",
+                    "text": "wheel lift tow truck service",
+                    "href": "/services/wheel-lift-tow-truck-service"
+                  },
+                  {
+                    "type": "text",
+                    "value": "."
+                  }
+                ]
+              },
+              {
+                "type": "p",
+                "value": "Our guys work 24 hours a day, 7 days a week"
+              }
+            ]
+          },
+          "about": {
+            "elements": [
+              {
+                "type": "h3",
+                "value": "Client Oriented Service"
+              },
+              {
+                "type": "p",
+                "value": "The idea for our Scissor Lift Towing company came about after we received low quality towing and spoiled spirits. We couldn't save that day of ours. Remembering that negative experience, we created a Scissor Lift Towing company that is customer-focused. It's important to us to not just provide Scissor Lift Towing in Minneapolis, but to make you feel like our professional technicians care about you. If you have a need for service in the city, we strive to get it done as quickly as possible. That being said, we remember that Scissor Lift Towing in Minneapolis is stressful, so our entire staff tries to lift your spirits. Don't feel left out and alone in Minneapolis, we're already rushing to you for Scissor Lift Towing. Call us +1(612)-445-5225."
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "home": {
+    "whyChooseUs": {
+      "elements": [
+        {
+          "type": "p",
+          "value": "Our towing company in Minneapolis is a reliable partner. If you need help getting you back on the road, we are sure to solve the problem. This is not our opinion of ourselves, this is how our customers speak of us. We have a service team of highly trained professionals to provide quality towing service in Minneapolis. Their level of skill, knowledge and their vast experience allows us to solve almost any problem that happened to you on the road in Minneapolis."
+        },
+        {
+          "type": "p",
+          "value": "Because we are a local towing company, we know all the local roads and nooks and crannies very well. For towing in Minneapolis, we choose the shortest routes devoid of repairs or congestion. The skill of the drivers allows us to drive up to your broken-down vehicle anywhere, and keep your immovable property intact. Our guys work 24 hours a day, 7 days a week"
+        }
+      ]
+    },
+    "about": {
+      "elements": [
+        {
+          "type": "h3",
+          "value": "Client Oriented Service"
+        },
+        {
+          "type": "p",
+          "value": "The idea for our towing company came about after we received low quality towing and spoiled spirits. We couldn't save that day of ours. Remembering that negative experience, we created a towing company that is customer-focused. It's important to us to not just provide towing in Minneapolis, but to make you feel like our experts care about you. If you have a need for service in the city, we strive to get it done as quickly as possible. That being said, we remember that towing in Minneapolis is stressful, so our entire staff tries to lift your spirits. Don't feel left out and alone in Minneapolis, we're already rushing to you for towing service. Call us +1(612)-445-5225."
+        }
+      ]
+    }
+  }
+}
