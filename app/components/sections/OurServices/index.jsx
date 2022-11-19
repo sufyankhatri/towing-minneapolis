@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import styles from "./styles.module.css";
 
-const OurServices = ({ data }) => {
+const OurServices = ({ data, params }) => {
   return (
     <section>
       <h2>{data.title}</h2>

@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Script from "next/script";
 import React from "react";
 import About from "../sections/About";
@@ -14,7 +15,7 @@ import Services from "../sections/Services";
 import WhyChooseUs from "../sections/WhyChooseUs";
 import ZipCodes from "../sections/ZipCodes";
 
-const PageStructure = ({ data }) => {
+const PageStructure = ({ data, params }) => {
   return (
     <>
       <header>
@@ -28,10 +29,10 @@ const PageStructure = ({ data }) => {
           <Map />
           <ZipCodes data={data.zips} />
         </div>
-        <OurServices data={data.ourServices} />
+        <OurServices data={data.ourServices} params={params} />
         <About data={data.about} />
         <Services data={data.services} contact={data.contact} />
-        <AllServices data={data.allServices} />
+        <AllServices data={data.allServices} params={params} />
         <Reviews data={data.reviews} />
         <CallBack data={data.form} />
         <Help data={data.help} contact={data.contact} />
@@ -41,13 +42,14 @@ const PageStructure = ({ data }) => {
           data={data.footer}
           contact={data.contact}
           brand={data.header.navbar.brand}
+          params={params}
         />
       </footer>
-      {/* {data.header.scripts.map((item, i) =>
+      {/* {data.header.schemas.map((item, i) =>
         Object.entries(item).map(([className, schema], j) => (
-          <Script key={i + j} type="application/ld+json" className={className}>
+          <script key={i + j} type="application/ld+json" className={className}>
             {schema}
-          </Script>
+          </script>
         ))
       )} */}
     </>

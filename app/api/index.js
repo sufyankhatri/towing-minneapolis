@@ -11,11 +11,7 @@ export const getPageData = async (params) => {
         domain,
         ...params,
       }).toString()}`,
-      {
-        next: {
-          revalidate: 60,
-        },
-      }
+      { next: { revalidate: 60 } }
     );
     const data = response.json();
     return data;
