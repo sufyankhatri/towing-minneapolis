@@ -1,4 +1,3 @@
-import Head from "next/head";
 import { getPageData } from "../api";
 import Banner from "../components/sections/Banner";
 import CallBack from "../components/sections/CallBack";

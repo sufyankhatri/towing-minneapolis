@@ -10,7 +10,7 @@ export default async function Head() {
       <meta name="description" content={data.header.meta.description} />
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <link rel="icon" href="/favicon.ico" />
-      {data.header.schemas.map((item, i) => {
+      {/* {data.header.schemas.map((item, i) => {
         return Object.entries(item).map(([className, schema], j) => {
           if (!schema) return <></>;
           return (
@@ -23,7 +23,7 @@ export default async function Head() {
             />
           );
         });
-      })}
+      })} */}
     </>
   );
 }
