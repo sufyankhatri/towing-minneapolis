@@ -1,4 +1,5 @@
 // import data from "../home.json" assert { type: "json" };
+import "../styles/globals.css";
 import Banner from "./components/sections/Banner";
 import Navbar from "./components/sections/Navbar";
 import WhyChooseUs from "./components/sections/WhyChooseUs";
@@ -6,13 +7,13 @@ import Map from "./components/sections/Map";
 import ZipCodes from "./components/sections/ZipCodes";
 import OurServices from "./components/sections/OurServices";
 import About from "./components/sections/About";
-import Services from "./components/sections/Services";
 import AllServices from "./components/sections/AllServices";
 import Reviews from "./components/sections/Reviews";
 import CallBack from "./components/sections/CallBack";
 import Help from "./components/sections/Help";
-import Footer from "./components/sections/Footer";
 import axios from "axios";
+import Services from "./components/sections/Services";
+import Footer from "./components/sections/Footer";
 
 const getData = async () => {
   const response = await axios.get("https://apicms.ecommcube.com/api/site", {
@@ -29,14 +30,13 @@ const Page = async () => {
 
   return (
     <>
-      <header>
-        {/* BACKGROUND IMAGE */}
-        <Navbar data={data.header.navbar} contact={data.contact} />
-        <Banner data={data.header.banner} contact={data.contact} />
-      </header>
+      {/* BACKGROUND IMAGE */}
+      <Navbar data={data.header.navbar} contact={data.contact} />
+      <Banner data={data.header.banner} contact={data.contact} />
+
       <main>
         <WhyChooseUs data={data.whyChooseUs} contact={data.contact} />
-        <div>
+        <div className="grid lg:grid-cols-2">
           <Map />
           <ZipCodes data={data.zips} />
         </div>
@@ -45,16 +45,14 @@ const Page = async () => {
         <Services data={data.services} contact={data.contact} />
         <AllServices data={data.allServices} />
         <Reviews data={data.reviews} />
-        <CallBack data={data.form} />
         <Help data={data.help} contact={data.contact} />
+        <CallBack data={data.form} />
       </main>
-      <footer>
-        <Footer
-          data={data.footer}
-          contact={data.contact}
-          brand={data.header.navbar.brand}
-        />
-      </footer>
+      <Footer
+        data={data.footer}
+        contact={data.contact}
+        brand={data.header.navbar.brand}
+      />
     </>
   );
 };
