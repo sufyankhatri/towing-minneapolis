@@ -3,7 +3,7 @@ import React from "react";
 import Container from "../../general/Container";
 import Divider from "../../general/Divider";
 
-const AllServices = ({ data }) => {
+const AllServices = ({ data, params }) => {
   return (
     <Container className="bg-secondary py-16 lg:py-20 text-white">
       <div className="w-10/12 lg:w-9/12 lg:text-lg flex items-center justify-center flex-col">

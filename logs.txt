@@ -1,0 +1,37 @@
+yarn run v1.22.19
+$ next dev
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Thank you for testing `appDir` please leave your feedback at https://nextjs.link/app-feedback
+event - compiled client and server successfully in 939 ms (199 modules)
+wait  - compiling /_error (client and server)...
+event - compiled client and server successfully in 315 ms (200 modules)
+wait  - compiling /[zip]/page (client and server)...
+event - compiled client and server successfully in 1688 ms (448 modules)
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+Promise { <pending> }
+yarn run v1.22.19
+$ next dev
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Thank you for testing `appDir` please leave your feedback at https://nextjs.link/app-feedback
+event - compiled client and server successfully in 1308 ms (199 modules)
+wait  - compiling /_error (client and server)...
+event - compiled client and server successfully in 279 ms (200 modules)
+wait  - compiling /[zip]/page (client and server)...
+event - compiled client and server successfully in 1051 ms (448 modules)
+wait  - compiling /page (client and server)...
+event - compiled client and server successfully in 410 ms (450 modules)
+wait  - compiling...
+event - compiled successfully in 307 ms (210 modules)
+wait  - compiling /services/[service]/page (client and server)...
+event - compiled client and server successfully in 776 ms (452 modules)
+wait  - compiling...
+event - compiled successfully in 330 ms (210 modules)
+wait  - compiling /[zip]/page (client and server)...
+event - compiled successfully in 225 ms (212 modules)
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
