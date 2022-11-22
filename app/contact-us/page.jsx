@@ -9,10 +9,6 @@ const Page = async () => {
   console.log(data);
   return (
     <>
-      <Head lang="en">
-        <meta name="description" content={data.header.meta.description} />
-        <title>{data.header.meta.title}</title>
-      </Head>
       <header>
         {/* BACKGROUND IMAGE */}
         <Navbar data={data.header.navbar} contact={data.contact} />
