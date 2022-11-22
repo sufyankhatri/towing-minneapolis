@@ -1,5 +1,3 @@
-import Head from "next/head";
-import Script from "next/script";
 import React from "react";
 import About from "../sections/About";
 import AllServices from "../sections/AllServices";
@@ -25,7 +23,7 @@ const PageStructure = ({ data, params }) => {
       </header>
       <main>
         <WhyChooseUs data={data.whyChooseUs} contact={data.contact} />
-        <div>
+        <div className="grid lg:grid-cols-2">
           <Map />
           <ZipCodes data={data.zips} />
         </div>
