@@ -29,7 +29,11 @@ const Elements = ({ elements, className = "" }) => {
           case "text":
             return <Fragment key={index}>{element.value}</Fragment>;
           case "h3":
-            return <h3 key={index}>{element.value}</h3>;
+            return (
+              <h3 className="text-2xl mb-3 font-extrabold uppercase" key={index}>
+                {element.value}
+              </h3>
+            );
         }
       })}
     </div>

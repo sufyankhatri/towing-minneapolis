@@ -1,13 +1,15 @@
 import React from "react";
 import ContactButton from "../../general/ContactButton";
-import styles from "./styles.module.css";
+import Container from "../../general/Container";
 
 const Services = ({ data, contact }) => {
   return (
-    <section>
-      <h2>{data.title}</h2>
+    <Container className="bg-cta py-16 lg:py-24">
+      <h2 className="text-white text-2xl lg:text-6xl mb-10 font-extrabold text-center">
+        {data.title}
+      </h2>
       <ContactButton data={contact} />
-    </section>
+    </Container>
   );
 };
 

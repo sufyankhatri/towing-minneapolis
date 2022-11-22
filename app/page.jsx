@@ -1,3 +1,4 @@
+import "../styles/globals.css";
 import { getPageData } from "./api";
 import PageStructure from "./components/PageStructure";
 
